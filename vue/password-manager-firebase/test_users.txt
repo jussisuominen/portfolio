@@ -1,0 +1,8 @@
+test@test.com
+test2@test.com
+Login password: Qwerty-12345
+Master password: 
+test
+test-2
+
+Do not store real passwords/usernames/data when testing the app!!
