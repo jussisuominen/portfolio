@@ -15,7 +15,7 @@ This is a password manager demo app built with Vue.js and Firebase. The main pur
 ## Getting started
 1. Clone the repository to your local machine
 2. Install the required dependencies by running `npm install`
-3. Set up a Firebase project and obtain the configuration object
+3. Set up a Firebase project and obtain the configuration object [optional]
 4. Update the `firebaseConfig.js` file with your Firebase configuration [optional]
 5. Run the app using `npm run serve`
 

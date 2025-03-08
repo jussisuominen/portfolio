@@ -5,14 +5,6 @@ import { getAuth } from 'firebase/auth'
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-// const firebaseConfig = {
-//     apiKey: "AIzaSyCdqs-9DaZEX8-8vNtCMDG6wPi4dVCrjWI",
-//     authDomain: "personal-cloud-jussi.firebaseapp.com",
-//     projectId: "personal-cloud-jussi",
-//     storageBucket: "personal-cloud-jussi.appspot.com",
-//     messagingSenderId: "207069732042",
-//     appId: "1:207069732042:web:c36762f40697fe5257e833"
-// };
 const firebaseConfig = {
     apiKey: "AIzaSyA8R5cqglsJ0sWBNrY_5UILKr-Xxwqv1dQ",
     authDomain: "password-vault-vue.firebaseapp.com",
