@@ -1,4 +1,26 @@
-# password-vault-vue
+# Password Vault Vue/Firebase demo app
+
+*Please do not store real passwords, usernames or any sensitive data in this app. This app is only for demonstration purposes. I have tried to make the app as secure as possible but I can not guarantee the security of this app. If you store real passwords, usernames or any sensitive data in this app, you do so at your own risk.*
+
+## Description
+This is a password manager demo app built with Vue.js and Firebase. The main purpose of this app is to demonstrate my coding skills and to showcase my experience with Vue.js and Firebase. It can also be used for educational purposes and as a reference for building a password manager app. 
+
+## Features
+- User authentication using Firebase
+- Password encryption and decryption using AES
+- Password storage and retrieval from Firebase Firestore
+- Password management features such as adding, editing, and deleting passwords
+- Ability to generate passwords
+
+## Getting started
+1. Clone the repository to your local machine
+2. Install the required dependencies by running `npm install`
+3. Set up a Firebase project and obtain the configuration object
+4. Update the `firebaseConfig.js` file with your Firebase configuration [optional]
+5. Run the app using `npm run serve`
+
+## Contributing
+Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## Project setup
 ```
