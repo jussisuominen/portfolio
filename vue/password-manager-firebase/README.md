@@ -12,11 +12,11 @@ This is a password manager demo app built with Vue.js and Firebase. The main pur
 - Password management features such as adding, editing, and deleting passwords
 - Ability to generate passwords
 
-## Getting started
+## How to use
 1. Clone the repository to your local machine
 2. Install the required dependencies by running `npm install`
-3. Set up a Firebase project and obtain the configuration object [optional]
-4. Update the `firebaseConfig.js` file with your Firebase configuration [optional]
+3. Set up a Firebase project and obtain the configuration object. If you don't know how to do this here is a Youtube video that will help you: https://www.youtube.com/watch?v=13eja_RYimU
+4. Update the `src/firebase/config.js` file with your Firebase configuration
 5. Run the app using `npm run serve`
 
 ## Contributing
