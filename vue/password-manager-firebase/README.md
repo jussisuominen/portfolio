@@ -22,9 +22,6 @@ This is a password manager demo app built with Vue.js and Firebase. The main pur
 5. Remember to enable authentication with email and password in your Firebase project.
 6. Run the app using `npm run serve`
 
-## Contributing
-Contributions are welcome! If you contribute to this project I will add your name to the list of people that have contributed to this project. Please fork the repository, make your changes, and submit a pull request. You may also contribute to this project by reporting an issue.
-
 ## Project setup
 ```
 npm install
